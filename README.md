@@ -1,10 +1,6 @@
 # my_awesome_lib:
 Jest to biblioteka Python, która zawiera moduły do pracy z danymi, plikami, operacjami matematycznymi, tekstami i wartościami losowymi. Zapewnia proste i intuicyjne funkcje, które ułatwiają codzienną pracę programisty.
 
-Folder tests/ → przechowuje testy jednostkowe.
-Plik setup.py i pyproject.toml → umożliwiają instalację biblioteki.
-Plik .gitignore → ignorowanie niepotrzebnych plików (np. __pycache__).
-
 1. Operacje na danych (data_utils.py)
 
 Funkcje:
