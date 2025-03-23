@@ -38,6 +38,10 @@ git clone https://github.com/Morciax/my_awesome_lib.git
 cd my_awesome_lib
 pip install .
 
+lub 
+
+pip install my_awesome_lib
+
 PRZYKŁADOWY SPOSÓB UŻYCIA:
 
 Operacje na danych:
